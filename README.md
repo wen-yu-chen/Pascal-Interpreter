@@ -1,10 +1,8 @@
-# Project2
+# Pascal Interpreter
 
 ## Comment
 Name: Wen-Yu Chen
-UFID: 6818-2352
 Features: Loops with break and continue, functions/procedures, variable scope along with all the features from project1
-
 Also, nested functions/procedures works with scope.
 
 ## Command
